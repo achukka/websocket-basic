@@ -10,4 +10,4 @@ npm install
 npm start
 ```
 
-Open [app/index.html](https://www.github.com/achukka/websocket-basic/app/index.html) in a webbrowser
+Open [app/index.html](https://github.com/achukka/websocket-basic/blob/main/app/index.html) in a webbrowser
